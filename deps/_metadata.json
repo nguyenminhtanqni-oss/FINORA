@@ -1,0 +1,60 @@
+{
+  "hash": "e43b71d5",
+  "configHash": "a6849768",
+  "lockfileHash": "0d3fa47d",
+  "browserHash": "02abea15",
+  "optimized": {
+    "chart.js": {
+      "src": "../../chart.js/dist/chart.js",
+      "file": "chart__js.js",
+      "fileHash": "e3c65620",
+      "needsInterop": false
+    },
+    "react-chartjs-2": {
+      "src": "../../react-chartjs-2/dist/index.js",
+      "file": "react-chartjs-2.js",
+      "fileHash": "31727854",
+      "needsInterop": false
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "3ba91bec",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "75141abc",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "63810af6",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "57834f7c",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "ddc1761e",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chart-B_IE3wKg": {
+      "file": "chart-B_IE3wKg.js",
+      "isDynamicEntry": false
+    },
+    "rolldown-runtime-BvCyGRYZ": {
+      "file": "rolldown-runtime-BvCyGRYZ.js",
+      "isDynamicEntry": false
+    }
+  }
+}
